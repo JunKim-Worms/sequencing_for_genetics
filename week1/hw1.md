@@ -1,5 +1,6 @@
 ##1주차 숙제
 ####다음 명령어들 사용법 알아보기
+```sh
 [tab 버튼]
 pwd
 cd
@@ -59,6 +60,7 @@ gunzip
 gzip -cd
 zcat
 unzip
+```
 
 ####다음 질문에 답해보기
 1) lsp41_scaffolds.substr.fa 에 포함된 contig 개수는?(힌트: 모든 contig는 > 로 시작하는 문장 다음에 염기서열 정보가 따라옴)
