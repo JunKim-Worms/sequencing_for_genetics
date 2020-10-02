@@ -188,9 +188,9 @@ cat Clue01_S.txt # or nano Clue01_S.txt
 
 원래 보물찾기가 끝나면 선물을 달라고 하시면 되는데, COVID-19이 끝날 즈음 서울대로 찾아오시면 차라도 한 잔 대접하겠습니다.
 
-보물찾기가 끝나면 다음 링크를 클릭해서 들어가서 시키는 대로 하시면 됩니다.
-[1주차 숙제](https://github.com/JunKim-Worms/sequencing_for_genetics/blob/master/week1/hw1.md)
-파일은 다음 명령어를 커맨드 라인에 입력하면 다운 받을 수 있습니다.
+보물찾기가 끝나면 다음 링크를 클릭해서 들어가서 시키는 대로 하시면 됩니다.\
+[1주차 숙제](https://github.com/JunKim-Worms/sequencing_for_genetics/blob/master/week1/hw1.md)\
+숙제 파일은 다음 명령어를 커맨드 라인에 입력하면 다운 받을 수 있습니다.
 ```sh
 git clone https://github.com/JunKim-Worms/sequencing_for_genetics.git
 cd sequencing_for_genetics/week1/
